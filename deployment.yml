@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
       - name: wisecow-container
-        image: registry-1.docker.io/dilbwagsingh/wisecow:1.0.0
+        image: registry-1.docker.io/kumarsanjeet18/wisecow:1.0.0
         ports:
         - containerPort: 4499
         env:
